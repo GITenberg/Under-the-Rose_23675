@@ -1,0 +1,33 @@
+_repo: Under-the-Rose_23675
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Isham, Frederic Stewart
+    aliases:
+    - Isham, Frederic S. (Frederic Stewart)
+    - Isham, F. S. (Frederic Stewart)
+    - Isham, Frederick S. (Frederick Stewart)
+    birthdate: 1866
+    deathdate: 1922
+    gutenberg_agent_id: '3515'
+    url: http://www.gutenberg.org/2009/agents/3515
+description: ''
+gutenberg_issued: '2007-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23675'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Courts and courtiers -- Fiction'
+- !lcc 'PS'
+- !lcsh 'France -- Fiction'
+title: Under the Rose
+url: http://www.gutenberg.org/ebooks/23675
